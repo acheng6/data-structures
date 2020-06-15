@@ -1,0 +1,9 @@
+8
+Jones,Alex,800123,3.2,60
+Wildman,Cassie,800234,2.9,102
+Jones,Susan,800456,1.8,88
+Backdorf,Niles,800567,2.4,45
+Stevens,Julio,800678,3.2,62
+Adorbe,Boa,800890,2.4,82
+Cramden,Ralph,800112,3.2,98
+Norton,Trixy,800222,2.7,72
